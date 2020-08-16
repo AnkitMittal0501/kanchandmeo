@@ -1,0 +1,14 @@
+1. Anaconda installation
+2. Functions called as min-programs
+3. If-Elif-Else Statements
+4. Truthy and Falsey values
+5. Bool() inbuild function
+6. Loop statments
+7. While loop
+8. For loop
+9. Break and Continue statements
+10. range()
+11. Type of arguments in range()
+12. Build in functions input() print() len()
+
+ 
