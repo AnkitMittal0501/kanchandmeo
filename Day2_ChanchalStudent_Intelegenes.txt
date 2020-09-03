@@ -11,4 +11,5 @@
 11. Type of arguments in range()
 12. Build in functions input() print() len()
 13. This is sample
+14. Manage
  
